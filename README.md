@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Borrel7
-- 👀 I’m interested in borrels and a drink
+- 👀 I’m interested in borrel
 - 🌱 I’m currently learning skateboarding, plumbing, Rust... 
 - 💞️ I’m looking for crime partners
 - 📫 How to reach me: msg
