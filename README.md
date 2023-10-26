@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Borrel7
-- 👀 I’m interested in borrel and a drink
-- 🌱 I’m currently learning skateboarding, plumbing, dog grooming
-- 💞️ I’m looking to collaborate on quant trading
+- 👀 I’m interested in borrels and a drink
+- 🌱 I’m currently learning skateboarding, plumbing, Rust... 
+- 💞️ I’m looking to crime partner
 - 📫 How to reach me: msg email etc
 
 <!---
