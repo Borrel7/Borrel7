@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Borrel7
 - 👀 I’m interested in borrels and a drink
 - 🌱 I’m currently learning skateboarding, plumbing, Rust... 
-- 💞️ I’m looking to crime partner
-- 📫 How to reach me: msg email etc
+- 💞️ I’m looking for crime partners
+- 📫 How to reach me: msg
 
 <!---
 Borrel7/Borrel7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
